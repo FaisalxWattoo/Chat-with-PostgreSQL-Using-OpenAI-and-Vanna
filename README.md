@@ -31,3 +31,4 @@ Activate the Streamlit application using:
 ```bash
 jupyter notebook chatwithpostgres.ipynb
 ```
+![Architecture](https://github.com/FaisalxWattoo/Chat-with-PostgreSQL-Using-OpenAI-and-Vanna/blob/main/Images/postgres.png)
