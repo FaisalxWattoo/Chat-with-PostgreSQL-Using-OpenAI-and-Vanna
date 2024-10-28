@@ -1,7 +1,8 @@
+# Chat with PostgreSQL Using OpenAI and Vanna
 ![Architecture](https://github.com/FaisalxWattoo/Chat-with-PostgreSQL-Using-OpenAI-and-Vanna/blob/main/Images/vannaaiflask.png)
 
 ... 
-# Chat with PostgreSQL Using OpenAI and Vanna
+
 ====================================================
 
 ## Overview
